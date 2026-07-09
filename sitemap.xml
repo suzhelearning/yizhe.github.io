@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://yizhe.fun/</loc></url>
+  <url><loc>https://yizhe.fun/robotics/</loc></url>
+  <url><loc>https://yizhe.fun/cv/</loc></url>
+  <url><loc>https://yizhe.fun/notes/</loc></url>
+  <url><loc>https://yizhe.fun/contact/</loc></url>
   <url><loc>https://yizhe.fun/publications/</loc></url>
   <url><loc>https://yizhe.fun/projects/</loc></url>
   <url><loc>https://yizhe.fun/projects/humanoid-exo/</loc></url>
